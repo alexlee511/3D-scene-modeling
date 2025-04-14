@@ -1,0 +1,1 @@
+在Visual Studio Code中開啟此Source code資料夾，並點選index.html開啟live server即可在網頁中操作
